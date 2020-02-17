@@ -1,3 +1,4 @@
 require "pry"
-def countdown
+def countdown (num)
+  binding.pry
 end
