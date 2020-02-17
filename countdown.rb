@@ -5,3 +5,5 @@ num -= 1
 end
 'Happy New Year'
 end
+
+def countdown(num)
